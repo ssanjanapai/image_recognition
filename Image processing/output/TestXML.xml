@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<symbolInstance>
+  <symbolInstance.JNPT_SUMP_TANK_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>3010</x>
+    <y>3554</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_SUMP_TANK_STATIC>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1225</x>
+    <y>1183</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1982</x>
+    <y>1183</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2730</x>
+    <y>1183</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1983</x>
+    <y>1424</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2387</x>
+    <y>1424</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>886</x>
+    <y>1425</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1225</x>
+    <y>1425</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1637</x>
+    <y>1425</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2731</x>
+    <y>1425</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2732</x>
+    <y>1519</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>898</x>
+    <y>2685</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1285</x>
+    <y>2685</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>898</x>
+    <y>3015</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1285</x>
+    <y>3015</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1284</x>
+    <y>3548</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2697</x>
+    <y>3818</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2056</x>
+    <y>3819</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2184</x>
+    <y>3819</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2310</x>
+    <y>3819</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2439</x>
+    <y>3819</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2566</x>
+    <y>3819</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1058</x>
+    <y>3828</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1300</x>
+    <y>3828</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1542</x>
+    <y>3828</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1059</x>
+    <y>3923</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1301</x>
+    <y>3923</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_VLV_HOV type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1543</x>
+    <y>3923</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_VLV_HOV>
+  <symbolInstance.JNPT_SUMPPUMP_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2838</x>
+    <y>3300</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_SUMPPUMP_STATIC>
+  <symbolInstance.JNPT_PUMP_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1073</x>
+    <y>1786</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_PUMP_STATIC>
+  <symbolInstance.JNPT_PUMP_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1825</x>
+    <y>1786</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_PUMP_STATIC>
+  <symbolInstance.JNPT_PUMP_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>2573</x>
+    <y>1786</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_PUMP_STATIC>
+  <symbolInstance.JNPT_DENSITY_METER_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>3818</x>
+    <y>1441</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+    <TAG_NAME/>
+  </symbolInstance.JNPT_DENSITY_METER_STATIC>
+  <symbolInstance.JNPT_SCRAPPER_BARRELL_STATIC type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>4879</x>
+    <y>855</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_SCRAPPER_BARRELL_STATIC>
+  <symbolInstance.JNPT_BASKET_STRAINER type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>1338</x>
+    <y>2852</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_BASKET_STRAINER>
+  <symbolInstance.JNPT_BASKET_STRAINER type="componentData">
+    <htmlId>210</htmlId>
+    <config type="graphicInfo"/>
+    <x>950</x>
+    <y>2853</y>
+    <left>0.0</left>
+    <top>0.0</top>
+    <right>0.0</right>
+    <bottom>0.0</bottom>
+  </symbolInstance.JNPT_BASKET_STRAINER>
+</symbolInstance>
